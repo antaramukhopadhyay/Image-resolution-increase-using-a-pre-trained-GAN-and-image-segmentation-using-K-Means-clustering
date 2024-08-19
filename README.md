@@ -1,2 +1,2 @@
-# Imge-resolution-increase-and-image-segmentation-using-K-Means-clustering
+# Increasing image resolution using a pre-trained model-and-segnenting high-resolution images-using-K-Means-clustering
 Creating a high resolution image from one single-molecule microscopy image and thereby segmenting the super-resolved image using K-Means clutering

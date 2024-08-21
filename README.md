@@ -1,6 +1,6 @@
 # Increasing image resolution using a pre-trained Enhanced Super Resolution (ESR) GAN -and-segmenting high-resolution images-using-K-Means-clustering
 
-Creating a high resolution image from one single-molecule microscopy image (using a pretrained GAN model from kaggle.com) and thereafter segmenting the super-resolved image using K-Means clustering. 
+Creating a high resolution image from one single-molecule microscopy image (using a pretrained GAN model from kaggle.com; "https://www.kaggle.com/models/kaggle/esrgan-tf2/TensorFlow2/esrgan-tf2/1") and thereafter segmenting the super-resolved image using K-Means clustering. 
 
 ## **Segmenting an image to count and analyze only colocalized spots** ##
 ![image1_original](https://github.com/user-attachments/assets/90b4e30f-85bd-4d77-89c6-a504fc4cc512)
